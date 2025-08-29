@@ -30,5 +30,4 @@ func quicksort(nums []int) []int {
 func main() {
 	nums := []int{3}
 	fmt.Println(quicksort(nums))
-	//test on new pc
 }
